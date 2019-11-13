@@ -1,0 +1,2 @@
+var str="1011001100110";
+console.log(typeof([1,2,3]))
